@@ -1,16 +1,59 @@
 # 👋 Hi, I'm Sol!
 
-I'm a **Tech Recruiter at Symplicity**, passionate about connecting amazing developers with exciting opportunities.
+With a heart that beats for technology and a soul driven by discovery, I combine my passion for **tech recruitment** with a genuine curiosity for people and cultures.  
+I've explored **30+ countries** and lived in **Chicago (2010–2011)** and **Dublin (2015–2018)**—experiences that shaped my **global mindset** and ability to connect meaningfully with professionals from all walks of life.
 
-## 👩‍💻 What I do:
-- I specialize in recruiting for **Fullstack roles** (especially **PHP + Angular**).
-- I work closely with hiring managers and dev teams to understand exactly what they need.
-- I support candidates through every step of the hiring process.
+---
 
-## 👀 Looking for:
-I'm always on the lookout for talented, collaborative, and curious developers who want to grow and make an impact.
+## 👩‍💻 About Me
 
-### 💬 Let’s Connect!
-If you're a developer open to new opportunities or just want to chat tech & hiring, feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/solangeleao/) or drop a message here!
+With **15+ years of experience** in HR and Tech Recruitment, I currently work at **Symplicity** (EdTech), a global leader in career services and student employability technology. We’re trusted by over **2,000 institutions in 40+ countries**, helping connect students to meaningful opportunities and building future-ready careers.
 
-> *PS: I'm not a developer, but I love learning about tech to better understand the people I work with!*
+At Symplicity, I recruit top-tier tech talent while also supporting broader HR initiatives that drive long-term organizational growth. I lead recruitment not only for **Symplicity Brazil**, but also for our global offices in **Canada (Orbis)**, **Australia (CareerHub)**, **UK (UniHub)**, **Latam**, and the **USA (Symplicity Corporation)**.
+
+---
+
+## 🌟 About Symplicity
+
+At **Symplicity**, we help higher education institutions prepare students for successful careers and meaningful lives.  
+Our platforms support:
+- Career services  
+- Student engagement  
+- Internships & experiential learning  
+- Employer connections  
+
+We’re proud to be a **Great Place to Work® certified** company, where people come first and collaboration drives everything we do.
+
+---
+
+## 🚀 Opportunities at Symplicity
+
+We’re growing and hiring across multiple tech teams!
+
+🔍 Explore open positions and apply here:  
+👉 [jobs.lever.co/symplicity](https://jobs.lever.co/symplicity/)
+
+---
+
+## 👀 What I’m Looking For
+
+I’m always looking for **collaborative, curious, and driven developers**, especially those with experience in:
+
+- **Fullstack Development**
+- **PHP + Angular**
+- Cloud technologies, DevOps, and scalable solutions
+
+---
+
+## 💬 Let’s Connect
+
+If you're a developer open to new opportunities, passionate about building impactful tech, or just want to chat—I'd love to connect!  
+👉 [LinkedIn](https://www.linkedin.com/in/solangeleao/)
+
+> *PS: I’m not a dev, but I love learning about tech to better understand the people behind it.*
+
+---
+
+💙 **Come join our team and grow with us at Symplicity!**
+
+
