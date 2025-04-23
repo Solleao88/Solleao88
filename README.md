@@ -1,9 +1,5 @@
-# 👋 Hi, I'm Sol!
-Brazilian, living in Sorocaba SP passion for **tech recruitment** with a genuine curiosity for people and cultures.  
-I've explored **30+ countries** and lived in **Chicago (2010–2011)** and **Dublin (2015–2018)**—experiences that shaped my **global mindset** and ability to connect meaningfully with professionals from all walks of life.
-
-## 👩‍💻 About Me
-
+# 👋 Hi, I'm Sol! 👱‍♀️ ☀️
+Brazilian, living in Sorocaba SP passion for **tech recruitment** 
 With **15+ years of experience** in HR and Tech Recruitment, I currently work at **Symplicity** (EdTech), a global leader in career services and student employability technology. We’re trusted by over **2,000 institutions in 40+ countries**, helping connect students to meaningful opportunities and building future-ready careers.
 I lead recruitment not only for **Symplicity Brazil**, but also support our global talent acquisition efforts, helping find the best candidates for our offices in **Canada (Orbis)**, **Australia (CareerHub)**, **UK (UniHub)**, and **Latam, the USA (Symplicity Corporation)**.
 
@@ -40,6 +36,9 @@ If you're a developer open to new opportunities, passionate about building impac
 👉 [LinkedIn](https://www.linkedin.com/in/solangeleao/)
 
 > *PS: I’m not a dev, but I love learning about tech to better understand the people behind it.*
+
+## About Me 👱‍♀️ ☀️
+I've explored **30+ countries** and lived in **Chicago (2010–2011)** and **Dublin (2015–2018)**—experiences that shaped my **global mindset** and ability to connect meaningfully with professionals from all walks of life.
 
 ---
 
