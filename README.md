@@ -8,16 +8,15 @@ I lead recruitment not only for **Symplicity Brazil**, but also support our glob
 
 We’re growing and hiring across multiple tech and Business teams!
 
-🔍 Explore open positions and apply here:  
+🔗 Explore open positions and apply here:  
 👉 [jobs.lever.co/symplicity](https://jobs.lever.co/symplicity/)
-
+🏆 Great Place To Work® certified 
 
 ## 👀 What I’m Looking For
 
 I’m always looking for **collaborative, curious, and driven developers** *PHP+Angular*👩‍💻
 
-
-## 🌟 About Symplicity
+## 🌐 About Symplicity
 
 At **Symplicity**, we help higher education institutions prepare students for successful careers and meaningful lives.  
 Our platforms support:
@@ -25,14 +24,9 @@ Our platforms support:
 - Student engagement  
 - Internships & experiential learning  
 - Employer connections  
-
-We’re proud to be a **Great Place to Work® certified** company, where people come first and collaboration drives everything we do.
-
 ---
-
-
-## About Me 👱‍♀️ ☀️
-I've explored **30+ countries** and lived in **Chicago (2010–2011)** and **Dublin (2015–2018)**—experiences that shaped my **global mindset** and ability to connect meaningfully with professionals from all walks of life.
+## 👱‍♀️About Me☀️
+I've explored **30+ countries** and lived in **Chicago - USA (2010–2011)** and **Dublin - Ireland (2015–2018)** *Traveling and discovering new cultures is truly my greatest passion ✈️.* 
 
 ## 💬 Let’s Connect
 
@@ -43,4 +37,3 @@ If you're a developer open to new opportunities, passionate about building impac
 ---
 
 💙 **Come join our team and grow with us at Symplicity!**
-
