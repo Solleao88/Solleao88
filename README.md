@@ -1,15 +1,11 @@
 # 👋 Hi, I'm Sol!
-
-With a heart that beats for technology and a soul driven by discovery, I combine my passion for **tech recruitment** with a genuine curiosity for people and cultures.  
+Brazilian, livng in Sorocaba SP passion for **tech recruitment** with a genuine curiosity for people and cultures.  
 I've explored **30+ countries** and lived in **Chicago (2010–2011)** and **Dublin (2015–2018)**—experiences that shaped my **global mindset** and ability to connect meaningfully with professionals from all walks of life.
-
----
 
 ## 👩‍💻 About Me
 
 With **15+ years of experience** in HR and Tech Recruitment, I currently work at **Symplicity** (EdTech), a global leader in career services and student employability technology. We’re trusted by over **2,000 institutions in 40+ countries**, helping connect students to meaningful opportunities and building future-ready careers.
-
-At Symplicity, I recruit top-tier tech talent while also supporting broader HR initiatives that drive long-term organizational growth. I lead recruitment not only for **Symplicity Brazil**, but also for our global offices in **Canada (Orbis)**, **Australia (CareerHub)**, **UK (UniHub)**, **Latam**, and the **USA (Symplicity Corporation)**.
+I lead recruitment not only for **Symplicity Brazil**, but also support our global talent acquisition efforts, helping find the best candidates for our offices in **Canada (Orbis)**, **Australia (CareerHub)**, **UK (UniHub)**, **Latam**, and the **USA (Symplicity Corporation)**.
 
 ---
 
@@ -33,17 +29,10 @@ We’re growing and hiring across multiple tech teams!
 🔍 Explore open positions and apply here:  
 👉 [jobs.lever.co/symplicity](https://jobs.lever.co/symplicity/)
 
----
 
 ## 👀 What I’m Looking For
 
-I’m always looking for **collaborative, curious, and driven developers**, especially those with experience in:
-
-- **Fullstack Development**
-- **PHP + Angular**
-- Cloud technologies, DevOps, and scalable solutions
-
----
+I’m always looking for **collaborative, curious, and driven developers**
 
 ## 💬 Let’s Connect
 
@@ -55,5 +44,4 @@ If you're a developer open to new opportunities, passionate about building impac
 ---
 
 💙 **Come join our team and grow with us at Symplicity!**
-
 
