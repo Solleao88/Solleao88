@@ -10,6 +10,7 @@ We’re growing and hiring across multiple tech and Business teams!
 
 🔗 Explore open positions and apply here:  
 👉 [jobs.lever.co/symplicity](https://jobs.lever.co/symplicity/)
+
 🏆 Great Place To Work® certified 
 
 ## 👀 What I’m Looking For
@@ -26,7 +27,8 @@ Our platforms support:
 - Employer connections  
 ---
 ## 👱‍♀️About Me☀️
-I've explored **30+ countries** and lived in **Chicago - USA (2010–2011)** and **Dublin - Ireland (2015–2018)** *Traveling and discovering new cultures is truly my greatest passion ✈️.* 
+I've explored **30+ countries** and lived in **Chicago - USA (2010–2011)** and **Dublin - Ireland (2015–2018)** 
+*✈️Traveling and discovering new cultures is truly my greatest passion.* 
 
 ## 💬 Let’s Connect
 
