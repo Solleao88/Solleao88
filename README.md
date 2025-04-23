@@ -30,16 +30,16 @@ We’re proud to be a **Great Place to Work® certified** company, where people 
 
 ---
 
+
+## About Me 👱‍♀️ ☀️
+I've explored **30+ countries** and lived in **Chicago (2010–2011)** and **Dublin (2015–2018)**—experiences that shaped my **global mindset** and ability to connect meaningfully with professionals from all walks of life.
+
 ## 💬 Let’s Connect
 
 If you're a developer open to new opportunities, passionate about building impactful tech, or just want to chat—I'd love to connect!  
 👉 [LinkedIn](https://www.linkedin.com/in/solangeleao/)
 
 > *PS: I’m not a dev, but I love learning about tech to better understand the people behind it.*
-
-## About Me 👱‍♀️ ☀️
-I've explored **30+ countries** and lived in **Chicago (2010–2011)** and **Dublin (2015–2018)**—experiences that shaped my **global mindset** and ability to connect meaningfully with professionals from all walks of life.
-
 ---
 
 💙 **Come join our team and grow with us at Symplicity!**
