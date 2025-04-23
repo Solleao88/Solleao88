@@ -8,6 +8,18 @@ With **15+ years of experience** in HR and Tech Recruitment, I currently work at
 I lead recruitment not only for **Symplicity Brazil**, but also support our global talent acquisition efforts, helping find the best candidates for our offices in **Canada (Orbis)**, **Australia (CareerHub)**, **UK (UniHub)**, and **Latam, the USA (Symplicity Corporation)**.
 
 ---
+## 🚀 Opportunities at Symplicity
+
+We’re growing and hiring across multiple tech and Business teams!
+
+🔍 Explore open positions and apply here:  
+👉 [jobs.lever.co/symplicity](https://jobs.lever.co/symplicity/)
+
+
+## 👀 What I’m Looking For
+
+I’m always looking for **collaborative, curious, and driven developers** *PHP+Angular*👩‍💻
+
 
 ## 🌟 About Symplicity
 
@@ -21,18 +33,6 @@ Our platforms support:
 We’re proud to be a **Great Place to Work® certified** company, where people come first and collaboration drives everything we do.
 
 ---
-
-## 🚀 Opportunities at Symplicity
-
-We’re growing and hiring across multiple tech and Business teams!
-
-🔍 Explore open positions and apply here:  
-👉 [jobs.lever.co/symplicity](https://jobs.lever.co/symplicity/)
-
-
-## 👀 What I’m Looking For
-
-I’m always looking for **collaborative, curious, and driven developers** *PHP+Angular*👩‍💻
 
 ## 💬 Let’s Connect
 
