@@ -32,7 +32,7 @@ We’re growing and hiring across multiple tech and Business teams!
 
 ## 👀 What I’m Looking For
 
-I’m always looking for **collaborative, curious, and driven developers**👩‍💻
+I’m always looking for **collaborative, curious, and driven developers** *PHP+Angular*👩‍💻
 
 ## 💬 Let’s Connect
 
