@@ -28,6 +28,7 @@ Our platforms support:
 ---
 ## 👱‍♀️About Me☀️
 I've explored **30+ countries** and lived in **Chicago - USA (2010–2011)** and **Dublin - Ireland (2015–2018)** 
+
 *✈️Traveling and discovering new cultures is truly my greatest passion.* 
 
 ## 💬 Let’s Connect
